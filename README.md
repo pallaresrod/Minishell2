@@ -34,5 +34,6 @@ Minishell is a lightweight Unix command interpreter written in C that replicates
     </li>
 </ul>
 
+<p></p>
 <p>Ana Pallarés Rodríguez</p>
 <p>Epitech project. 2025</p>
