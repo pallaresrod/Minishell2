@@ -1,0 +1,10 @@
+*.log
+*.o
+*.out
+out
+libmy.a
+*.gc*
+.vscode
+tester
+test
+mysh
